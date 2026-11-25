@@ -1,0 +1,5 @@
+[0213/103907:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (0x2740)
+[0213/103907:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0213/122248:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0213/122248:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)

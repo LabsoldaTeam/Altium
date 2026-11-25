@@ -1,0 +1,5 @@
+23/01/2024 - Conectores.int
+Recriados TODOS os conectores STLZ com as versões de 90 e 180º, atualizando seus footprints e descrições.
+
+16/09/2026
+Incluídos múdulos da raspi pi pico, display oled, linear 128x68, RFID
