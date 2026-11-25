@@ -5,7 +5,7 @@ Esta pasta foi estruturada para ser a base unica, limpa e padronizada das biblio
 ---
 
 ## Estrutura de Pastas
-
+```
 D:\Altium_Libraries_Master\
 |-- 01_Bibliotecas_Integradas/              <- Arquivos .IntLib compilados prontos para instalar e usar em projetos
 |   |-- Capacitores_PTH.IntLib
@@ -49,7 +49,7 @@ D:\Altium_Libraries_Master\
 |-- Esquematicos/                           <- Esquematicos fonte (.SchLib) categorizados
 |-- Footprints/                             <- Footprints fonte (.PcbLib) categorizados
 `-- Historico de Atualizacao.txt            <- Registro de modificacoes
-
+```
 ---
 
 ## Como incorporar novos componentes (Passo a Passo)
